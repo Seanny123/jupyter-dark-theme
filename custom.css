@@ -1,9 +1,10 @@
 /*
-  Dark theme for Jupyter Notebook/iPython 4
-  Author: Theodore Pak
+  Dark theme for Jupyter Notebook/iPython 5
+  Author: Sean Aubin
   Repo at: https://github.com/powerpak/jupyter-dark-theme
 
   Inspired by and adapted from the following:
+  PowerPack's Jupyter Dark Theme (https://github.com/powerpak/jupyter-dark-theme)
   Base16 for iPython Notebook (https://github.com/nsonnad/base16-ipython-notebook)
   Base16 Twilight Dark, David Hart (http://hart-dev.com)
   CodeMirror template adapted for IPython Notebook by Nikhil Sonnad (https://github.com/nsonnad/base16-ipython-notebook)
@@ -322,6 +323,7 @@ div.output_html { font-family: sans-serif; }
   .notebook_app div.output_subarea { max-width: 100%; }
   .notebook_app div.output_area pre { font-weight: normal; color: #979797; }
   .notebook_app div.output_subarea { font-weight: normal; color: #979797; }
+  .notebook_app div.output_png { background-color: #808080; }
   .notebook_app div.output_stderr {background-color: #A0783C;}
   .notebook_app div.output_stderr pre {color: #eee;}
 
